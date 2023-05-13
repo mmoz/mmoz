@@ -22,7 +22,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=mmoz&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://livecodestream.dev/post/programming-memes/6_huc52e517425524d43b15ce2b14208510c_655472_700x0_resize_q90_h2_lanczos_3.webp" width="512px"/>
+<img src="https://media.tenor.com/41I-iMyClCgAAAAS/programmer-programming.gif" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mmoz&icon=0&color=8)](https://visitcount.itsvg.in)
