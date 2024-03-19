@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Zack</h1>
 <h2 align="center">A full steak developer 🥩</h3>
-<h3 align="center">A full steak developer 🥩</h3>
+<h3 align="center">❌ Frontend</h3>
+<h3 align="center">❌ Backend</h3>
+<h3 align="center">✅ Weekend</h3>
+
+
+
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmoz&label=Profile%20views&color=0e75b6&style=flat" alt="mmoz" /> </p>
